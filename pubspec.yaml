@@ -1,7 +1,8 @@
 name: test_package
-description: A new Flutter package.
+description: create custom box.
 version: 0.0.1
-homepage:
+autor: mohamad abdulaziz<mohamad.samer.abdulaziz>
+homepage: https://github.com/MohamadAbdUlaziz938/custom_box.git
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
